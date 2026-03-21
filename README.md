@@ -1,18 +1,4 @@
-Perfeito 👍 agora ficou **bem claro**.
 
-Você quer **UM README.md só**, explicando **TODO o projeto**:
-
-*   Frontend (Vue + Vite)
-*   Backend / API (Node + Express + TypeScript)
-*   Como rodar tudo
-
-Abaixo está o **README ÚNICO E COMPLETO**, em linguagem simples.  
-👉 **Crie um arquivo `README.md` na raiz do projeto geral**  
-👉 **Cole TUDO exatamente como está abaixo**
-
-***
-
-````md
 # Sistema de Matrículas
 
 Projeto completo de **Sistema de Matrículas**, composto por:
