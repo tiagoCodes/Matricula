@@ -108,7 +108,8 @@ npm run dev
 
 A API ficará disponível em:
 
-    http://localhost:3000
+    https://matricula-ixtqixhqf-tiagocodes-projects.vercel.app
+    
 
 ***
 
@@ -134,8 +135,8 @@ npm run dev
 
 O frontend ficará disponível em:
 
-    http://localhost:5173
-
+    https://matricula-ixtqixhqf-tiagocodes-projects.vercel.app
+    
 ***
 
 ## Comunicação Frontend ↔ Backend
@@ -154,7 +155,8 @@ Exemplo:
 import axios from 'axios'
 
 export const api = axios.create({
-  baseURL: 'http://localhost:3000'
+  baseURL: https://matricula-ixtqixhqf-tiagocodes-projects.vercel.app
+  
 })
 ```
 

@@ -2,7 +2,7 @@
 import { ref, onMounted, computed } from 'vue'
 import axios from 'axios'
 
-const API_BASE = 'http://localhost:3001'
+const API_BASE = 'https://matricula-ixtqixhqf-tiagocodes-projects.vercel.app'
 
 const nomeCompleto = ref('')
 const email = ref('')
