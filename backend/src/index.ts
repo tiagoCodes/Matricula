@@ -11,3 +11,9 @@ app.use('/cursos', cursosRouter);
 app.use('/matricula', matriculaRouter);
 
 export default app;
+
+const PORT = 3000;
+
+app.listen(PORT, () => {
+  console.log(`Servidor rodando na porta ${PORT}`);
+});
