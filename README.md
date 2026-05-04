@@ -1,4 +1,3 @@
-
 # Sistema de Matrículas
 
 Projeto completo de **Sistema de Matrículas**, composto por:

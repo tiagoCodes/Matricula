@@ -124,7 +124,7 @@ onMounted(() => {
 </template>
 
 <style scoped>
-.form-wrapper { max-width: 420px; margin: 2rem auto; display: grid; gap: 1rem; }
+.form-wrapper { max-width: 480px; margin: 2rem auto; display: grid; gap: 1rem;}
 label { display: grid; gap: .25rem; font-weight: 600; }
 input, select {
   padding: .6rem .75rem;

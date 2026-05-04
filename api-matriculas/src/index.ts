@@ -10,7 +10,4 @@ app.use(express.json());
 app.use('/cursos', cursosRouter);
 app.use('/matricula', matriculaRouter);
 
-const PORT = process.env.PORT || 3001;
-app.listen(PORT, () => {
-  console.log(`API rodando em http://localhost:${PORT}`);
-});
+export default app;
