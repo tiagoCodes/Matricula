@@ -1,6 +1,7 @@
 {
   "name": "api-matriculas",
   "version": "1.0.0",
+  "type": "module",
   "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
